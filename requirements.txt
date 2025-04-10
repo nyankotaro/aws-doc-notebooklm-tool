@@ -1,0 +1,11 @@
+beautifulsoup4==4.13.3
+certifi==2025.1.31
+charset-normalizer==3.4.1
+greenlet==3.1.1
+idna==3.10
+playwright==1.51.0
+pyee==12.1.1
+requests==2.32.3
+soupsieve==2.6
+typing_extensions==4.13.1
+urllib3==2.3.0

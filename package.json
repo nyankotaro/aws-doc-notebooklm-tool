@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@playwright/mcp": "^0.0.10",
+    "playwright": "^1.52.0-alpha-2025-04-08"
+  }
+}
